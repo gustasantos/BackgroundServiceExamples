@@ -22,9 +22,12 @@ Clone o repositório:
 ```bash
 git clone https://github.com/gustasantos/BackgroundServiceExamples.git
 cd BackgroundServiceExamples
+```
 
 Execute qualquer um dos projetos com o seguinte comando:
+```bash
 dotnet run --project NomeDoProjeto
-
+```
 Exemplo:
+```bash
 dotnet run --project ConsumerQueueExample
